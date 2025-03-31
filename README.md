@@ -48,7 +48,9 @@ By using high-power laser arrays and feedback-driven spatial light control, part
 
 Furthermore, such barriers are not static. With real-time sensors and responsive beam control, the configuration of the shield can be adapted on-the-fly—thickening in one region, thinning in another, or even shifting shape to redirect incoming energy based on threat vectors. These traits make photonic force fields uniquely suited to the unpredictable and harsh environments of space.
 
-For a much more comprehensive exploration of force field technology, please read: [Optical Micro-Particle Shield Array (OMPSA) for Advanced Spacecraft Protection in Orbital and Deep-Space Environments](https://github.com/Xaxis/OMPSA)
+For a much more comprehensive exploration of force field technology, please read: 
+
+[Optical Micro-Particle Shield Array (OMPSA) for Advanced Spacecraft Protection in Orbital and Deep-Space Environments](https://github.com/Xaxis/OMPSA)
 
 ---
 
