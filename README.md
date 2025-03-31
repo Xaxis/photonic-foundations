@@ -1,4 +1,4 @@
-# **Tractor Beams & Cloaks: Lasers as the Hidden Engines of Sci-Fi Tech**
+# **Lasers as the Hidden Engines of Sci-Fi Tech**
 
 **Photonic Manipulation and the Foundations of Future Technologies**
 
