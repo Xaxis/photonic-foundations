@@ -9,22 +9,6 @@ tags: ["photonic manipulation", "lasers", "optical trapping", "force fields", "t
 
 ---
 
-## Table of Contents
-
-- [Introduction](#introduction)  
-- [Fundamentals of Photonic Manipulation](#fundamentals-of-photonic-manipulation)  
-- [Force Fields: Photonic Barrier Concepts](#force-fields-photonic-barrier-concepts)  
-- [Tractor Beams: Remote Manipulation via Light](#tractor-beams-remote-manipulation-via-light)  
-- [Cloaking Technology: Photonic Bandgap and Invisibility](#cloaking-technology-photonic-bandgap-and-invisibility)  
-- [Reconfigurable Matter: Dynamic Particle Lattices](#reconfigurable-matter-dynamic-particle-lattices)  
-- [Engineering Challenges and Solutions](#engineering-challenges-and-solutions)  
-- [Computational Requirements and Feedback Control](#computational-requirements-and-feedback-control)  
-- [Practical Implementations and Potential Applications](#practical-implementations-and-potential-applications)  
-- [Conclusion](#conclusion)  
-- [References](#references)
-
----
-
 ## Introduction
 
 As humanity stretches its reach into orbital habitats, lunar stations, and interplanetary missions, the technological demands of these endeavors exceed the limits of traditional material science. Fixed structures and rigid defense systems offer insufficient flexibility for the dynamic threats and fluctuating conditions of space environments. We are entering an era where adaptive, energy-based systems become not only viable, but necessary.
